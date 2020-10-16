@@ -35,5 +35,6 @@ With the script `./MessageComp.R`, I created the following graphs:
   - Pie chart of % messages sent by each person
   - Violin chart of # words / message
   - Violin chart of # characters / message
+
 Note: For this and all scripts, names have been replaced with "Sender1" and "Sender2". Replace these with your names before using the script!
 
