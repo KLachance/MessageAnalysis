@@ -38,3 +38,13 @@ With the script `./MessageComp.R`, I created the following graphs:
 
 Note: For this and all scripts, names have been replaced with "Sender1" and "Sender2". Replace these with your names before using the script!
 
+# Messages over time
+
+# Wait time
+
+# Word frequency and enrichment
+
+# Sentiment analysis
+
+# Emotion analysis
+
